@@ -8,7 +8,7 @@ export default [
    },
    {
 		year: 'Aug 2022 - Feb 2023',
-		title: 'Porject Manager | Frontend Developer',
+		title: 'Project Manager | Frontend Developer',
 		duration: '@ Metabond',
 		details:
 			"Working closely with 2 great founders. Developed and project managed the development of the Metabond Platform as well as a 5000 NFT Collection… Turning their ideas into smart contract…",
